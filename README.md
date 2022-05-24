@@ -1,6 +1,6 @@
 ### Hola soy Hernán Encizo 👋
 
-- 🔭 I’m currently working on Estudiante Full Stack Developer. 
+- 🔭 I’m Estudiante Full Stack Developer. 
 - 🌱 I’m currently learning Java, Git, MYSQL, HTML, CSS.
 - 🤔 I’m looking for help with Java
 - 📫 How to reach me: hernanencizo360@gmail.com
