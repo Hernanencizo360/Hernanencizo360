@@ -10,7 +10,7 @@
 <hr>
 <div style="display: inline_block" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernanencizo360&layout=compact&langs_count=7&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=Hernanencizo360&show_icons=true&theme=bluegreen&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://githubreadmestats.vercel.app/apiusername=Hernanencizo360&show_icons=true&theme=bluegreen&include_all_commits=true&count_private=true"/>
   </div>
  
  <div style="display: inline_block"><br>
