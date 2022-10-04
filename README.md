@@ -9,17 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/Hernanencizo360">
-  
-    <a href="https://github.com/Hernanencizo360/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hernanencizo360&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Hernanencizo360/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hernanencizo360&repo=convoychat" />
-</a>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hernanencizo360&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernanencizo360&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+  ![Hernan GitHub stats](https://github-readme-stats.vercel.app/api?username=Hernanencizo360&show_icons=true&theme=blue)
+ 
   
  <div style="display: inline_block"><br>
   
