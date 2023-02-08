@@ -1,7 +1,7 @@
 
 ### ¡Hi I'm Hernán from Argentina! 👋
 
-- 🔭 I’m a student Full Stack Developer. 
+- 🔭 I’m a Full Stack Developer. 
 - 🌱 I’m currently learning Java, Git, MYSQL, HTML, CSS.
 - 🤔 I’m looking for help with Java
 - 📫 How to reach me: hernanencizo360@gmail.com
