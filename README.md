@@ -9,12 +9,13 @@
 
 <hr>
 <div style="display: inline_block" align="center">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernanencizo360&layout=compact&langs_count=7&theme=blue-green"/>
-  <br>
+ ### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/Hernanencizo360">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <a href="https://github.com/Hernanencizo360">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=Hernanencizo360&show_icons=true&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true" alt="Hernanencizo360 GitHub Stats" />
-  </a>
+</p>
   
  </div>
  
