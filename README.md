@@ -18,6 +18,7 @@
  </p>
 </div>
  
+<hr>
 <div style="display: inline_block" align="center">
   <img alt="Js" height="35" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="35" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,9 +32,7 @@
   <img alt="Illustrator" height="35" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img alt="Photoshop" height="35" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
-
-<hr>
-
+<br>
 <div style="display: inline_block" align="center" > 
   <a href="https://instagram.com/hernanencizo360" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/kkMabznv4d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
