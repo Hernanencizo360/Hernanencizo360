@@ -1,5 +1,5 @@
  <div id="header" align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN2djlvNmN6ZjBwOGxoY2t3ZzVmdnFmMzlwd3Y2bngzbnNkZDFjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="25%" height="25%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN2djlvNmN6ZjBwOGxoY2t3ZzVmdnFmMzlwd3Y2bngzbnNkZDFjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="30%" height="30%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 <div align="center">
  <img width="70%" height="70%" src="https://readme-typing-svg.demolab.com/?lines=¡Hi+👋,+My+name+is+Hernán+Encizo!+;¡I’m+from+Corrientes+-+Argentina!">
