@@ -6,7 +6,7 @@
 </div>
 
 - 🧑🏽‍💻 Soy Full Stack Developer y QA Tester, apasionado por construir soluciones innovadoras y asegurar la calidad del software.
-- 🌱 Actualmente estoy trabajando con Java, Git, MySQL, HTML y CSS.
+- 🌱 Actualmente estoy trabajando con Java, MySQL, Hibernate y Spring Boot.
 - 🤔 Estoy buscando ayuda con SpringBoot y cualquier otra tecnología que pueda expandir mis habilidades.
 - 📫 Puedes contactarme en hernanencizo360@gmail.com.
 - 🔭 ¡Conéctate conmigo y exploremos juntos el mundo del desarrollo de software!
